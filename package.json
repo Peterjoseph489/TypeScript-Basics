@@ -1,0 +1,25 @@
+{
+  "name": "learning-typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --exec ts-node intro.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Peterjoseph489/TypeScript-Basics.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Peterjoseph489/TypeScript-Basics/issues"
+  },
+  "homepage": "https://github.com/Peterjoseph489/TypeScript-Basics#readme",
+  "devDependencies": {
+    "nodemon": "^3.0.1",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.2.2"
+  }
+}
