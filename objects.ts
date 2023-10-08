@@ -17,4 +17,5 @@ function createUser ({names: string, isPaid: boolean}) {
 createUser({ names: 'Joseph', isPaid: false }); 
 
 
+
 export {}
