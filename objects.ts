@@ -17,5 +17,4 @@ const user = {
 // createUser({ names: 'Joseph', isPaid: false }); 
 
 
-
 export {}
